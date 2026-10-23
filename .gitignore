@@ -1,0 +1,11 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+.idea/
+*.apk
+*.aab
+.env
+.env.*
+!.env.example
